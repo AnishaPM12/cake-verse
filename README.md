@@ -221,7 +221,17 @@ CakeVerse provides a complete frontend concept for an online cake ordering platf
 **CakeVerse 🍰**
 
 ---
+## Screenshot
 
+<img width="1920" height="920" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/ca52c97a-0924-4952-a2ec-47c14aa12d5e" />
+
+<img width="1920" height="926" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/f9c722b6-4d12-48b9-99eb-5d24a52188b6" />
+
+<img width="1920" height="919" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/161cc005-eb9a-4084-b2ab-dae7409adb7a" />
+
+<img width="1920" height="926" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/03a05aca-d361-42df-af4b-1470dd515453" />
+
+---
 ## 📄 License
 
 This project was created for educational and mini-project purposes.
