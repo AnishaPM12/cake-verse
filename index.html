@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CakeVerse</title>
+</head>
+
+<body>
+
+    <!-- Your complete website code goes here -->
+    <!-- Product cards and cart icon should be here -->
+
+
+    <script>
+
+    let count = 0;
+
+    let buttons = document.querySelectorAll(".product-card button");
+
+    buttons.forEach(button => {
+
+        button.addEventListener("click", function(){
+
+            count++;
+
+            document.getElementById("cartCount").innerHTML = count;
+
+        });
+
+    });
+
+    </script>
+
+</body>
+
+</html>
